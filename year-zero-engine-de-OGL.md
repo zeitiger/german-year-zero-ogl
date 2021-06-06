@@ -17,7 +17,7 @@
 
 **Year Zero Engine © 2019 by Fria Ligan AB. Developed, authored, and edited by Tomas Härenstam.**
 
-**Year Zero Engine German Translation Copyright 2021, Uhrwerk Verlag; Author[s] David Steinkopff (zeitiger)**
+**Year Zero Engine German Translation Copyright 2021, Uhrwerk Verlag; Übersetzung David Steinkopff (zeitiger), Lektorat Felix Hensell**
 
 **In accordance with the Open Game License Section 8 “Identification” the following designate Open Game Content and Product Identity:**
 
@@ -51,25 +51,25 @@
 
 # Einführung
 
-Willkommen zu Year Zero. Dieses Dokument enthält den Regelkern der Year Zero Engine für Rollenspiel und wurde für Spiele von Free League verwendet wie bspw. *Mutant: Jahr Null, Coriolis - Der dritte Horizont, Tales from the Loop* und *Die verbotenen Lande.*
+Willkommen zu Year Zero. Dieses Dokument enthält den Regelkern der Year Zero Engine für Pen & Paper-Rollenspiele und wird in Spielen von Free League verwendet wie beispielsweise *Mutant: Year Zero (auf deutsch erschienen als Mutant: Jahr Null), Coriolis – The Third Horizon (auf deutsch erschienen als Coriolis - Der dritte Horizont), Tales from the Loop und Forbidden Lands (auf deutsch erschienen als Die verbotenen Lande).*
 
 ## Die Grundlagen
 
-In diesem Abschnitt werden einige Schlüsselkonzepte des Rollenspiels vorgestellt, und wie sie in Spielen mit der Year Zero Engine verwendet werden.
+In diesem Abschnitt werden einige Schlüsselkonzepte des Rollenspiels und ihre Verwendung in Spielen mit der Year Zero Engine vorgestellt.
 
 ### Die Spielcharaktere
 
-Jede Person bis auf eine übernimmt die Kontrolle über je einen Spielcharakter (SC). Du entscheidest was dein SC denkt und fühlt, was gesagt und getan wird – aber nicht was daraus folgen wird. Es ist deine Aufgabe dich in deinen SC hineinzuversetzen. Dieser Charakter könnte auf ein Abenteuer gehen in einer weitentfernten Fantasy Welt, dennoch bleibt es eine Person mit Gefühlen und Träumen, genau wie du selbst. Versuch dir vorzustellen dieser Charakter zu sein. Wie würdest du reagieren? Was würdest du tun? Die Spielcharaktere sind immer die Akteure in der Geschichte. Im Spiel geht es um dich. Deine Entscheidungen, deine Abenteuer.
+Jede Person bis auf eine übernimmt die Kontrolle über je einen Spielcharakter (SC). Du entscheidest was dein SC denkt und fühlt, was er sagt und tut – aber nicht, was mit ihm geschieht. Es ist deine Aufgabe dich in deinen SC hineinzuversetzen. Dieser Charakter mag in einer weitentfernten Fantasywelt Abenteuer erleben, dennoch bleibt er eine Person mit Gefühlen und Träumen, genau wie du selbst. Versuche dir vorzustellen, du wärst dieser Charakter. Wie würdest du reagieren? Was würdest du tun? Die Spielcharaktere sind immer die Protagonisten in der Geschichte. Im Spiel geht es um euch. Eure Entscheidungen, eure Abenteuer.
 
 ### Die Spielleitung
 
-Die verbleibende Person ist die Spielleitung, die SL. Die SL beschreibt die Spielwelt zu euch, spielt alle Personen die ihr trefft und steuert die Gegner die ihr bekämpft. Das Spiel ist eine Konverstation zwischen den Spielcharakteren und der Spielleitung, hin und her bis eine kritische Situation erwächst deren Ergebnis unklar ist. Dann ist es Zeit die Würfel herauszuholen - lies dazu mehr in [Kapitel 3](#).
+Die verbleibende Person ist die Spielleitung, die SL. Die SL beschreibt die Spielwelt für euch, spielt alle Personen, die ihr trefft und steuert die Gegner, die ihr bekämpft. Das Spiel ist ein Gespräch zwischen den Spielcharakteren und der Spielleitung, es geht hin und her, bis eine kritische Situation entsteht, deren Ergebnis unklar ist. Dann ist es an der Zeit, die Würfel zur Hand zu nehmen - lies dazu mehr in Kapitel 3.
 
-Es ist die Aufgabe der SL, euch Hindernisse in den Weg zu legen und eure SCs herauszufordern und sie zu zwingen, zu zeigen, was sie wirklich drauf haben. Aber es ist nicht Sache der SL, alles zu entscheiden, was im Spiel passiert - und vor allem nicht, wie die Geschichte enden soll. Das wird im Spiel entschieden. Das ist der Grund, warum wir das Spiel spielen - um herauszufinden, wie die Geschichte endet.
+Es ist die Aufgabe der SL, euch Hindernisse in den Weg zu stellen, eure SCs herauszufordern und sie zu zwingen, zu zeigen, was wirklich in ihnen steckt. Aber es ist nicht die Aufgabe der SL, alles zu entscheiden, was im Spiel passiert - und vor allem nicht, wie die Geschichte enden soll. Das wird im Spiel entschieden. Das ist der Grund, warum wir das Spiel spielen - um herauszufinden, wie die Geschichte endet.
 
-> #### Diese Fußnoten
+> #### Einschübe wie dieser
 > 
-> *kursiv gedruckte Fußnoten wie diese sind in diesem Regeltext eingestreut. Sie enthalten in der Regel Regelvarianten, Kommentare und Hinweise zum Spielablauf.*
+> *Kursiv gedruckte Einschübe wie diese sind immer wieder in diesem Regeltext eingestreut. Sie enthalten normalerweise Regelvarianten, Kommentare und Hinweise zum Spielablauf.*
 
 ## Wesentliche Merkmale
 
